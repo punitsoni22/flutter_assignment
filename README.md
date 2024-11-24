@@ -30,7 +30,7 @@ The design and functionality of this application are inspired by the Figma desig
 
 This application is meticulously designed to align with the **Figma** prototype provided. Each screen, widget, and layout is modeled to match the Figma specifications. Careful attention has been given to ensure pixel-perfect design, including font sizes, margins, paddings, and color schemes.
 
-The **Figma Design Link** can be found [here](https://www.figma.com/design/3Tq2HxJx0OKY3529H9r4MN/Hiring-Task?node-id=4-16974&node-type=frame&t=eYAgCuFhoSM7F7KB-0) (replace with actual Figma link).  
+The **Figma Design Link** can be found [here](https://www.figma.com/design/3Tq2HxJx0OKY3529H9r4MN/Hiring-Task?node-id=4-16974&node-type=frame&t=eYAgCuFhoSM7F7KB-0).  
 
 ---
 
